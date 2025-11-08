@@ -1,79 +1,42 @@
-<div align="center">
-  <img src="walpaper.gif" alt="Banner" width="33%"/>
-</div>
-
-<h1 align="center">Hi 👋 I'm Hubert</h1>
+<h1 align="center">Hi, I'm Hubert</h1>
 <h3 align="center">Applied Computer Science Student | Cracow University of Technology</h3>
 
+- 🌱 I'm currently learning **HTML5, CSS3, JavaScript, React, Java, Spring Boot**
+
+- 📫 How to reach me **hubertjucha21@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hubert-jucha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/pxyvrld">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://www.linkedin.com/in/hubert-jucha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hubert-jucha" height="30" width="40" /></a>
+<a href="https://github.com/pxyvrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pxyvrld" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🎓 Currently working on:
 
-I'm an Applied Computer Science student at Cracow University of Technology, actively developing my skills in web application development. Currently focusing on full-stack development, combining frontend with backend technologies.
+🛒 **GroupBuy Platform** – A full-stack web application for group purchases.  
+Building a modern platform that connects buyers for better deals. Focusing on responsive design, user experience, and backend integration using Spring Boot and React.
 
-## 🛠️ Tech Stack
+---
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### ✅ Finished Projects
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## 📚 Currently Learning
-
-- **JavaScript** - advanced concepts and ES6+
-- **React** - building modern SPA applications
-- **Java & Spring Boot** - creating REST APIs and backend applications
-
-## 💼 Featured Projects
-
-### 🚗 [Kokon Cars](https://github.com/pxyvrld/kokon-cars)
-Landing page for an active car and bus rental company
-- Responsive design
-- Modern user interface
-- **Status:** ✅ Completed and live
-
-### 🛒 [GroupBuy Platform](https://github.com/pxyvrld/groupbuy-platform)
-Platform for group purchases
-- Full-stack web application
-- **Status:** 🚧 In development
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pxyvrld&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxyvrld&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-## 📫 Get In Touch
-
-Looking for collaboration or want to chat about projects? Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hubert-jucha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hubert_Jucha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- [`🚗 Kokon Cars`](https://github.com/pxyvrld/kokon-cars) – A professional landing page for an active car and bus rentak company. Built with modern HTML5, CSS3, Bootstrap and JavaScript. Features responsive design and smooth animations.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pxyvrld&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pxyvrld&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
