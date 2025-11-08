@@ -33,7 +33,7 @@ Building a modern platform that connects buyers for better deals. Focusing on re
 
 ### ✅ Finished Projects
 
-- [`🚗 Kokon Cars`](https://github.com/pxyvrld/kokon-cars) – A professional landing page for an active car and bus rentak company. Built with modern HTML5, CSS3, Bootstrap and JavaScript. Features responsive design and smooth animations.
+- [`🚗 Kokon Cars`](https://github.com/pxyvrld/kokon-cars) – A professional landing page for an active car and bus rental company. Built with modern HTML5, CSS3, Bootstrap and JavaScript. Features responsive design and smooth animations.
 
 ---
 
